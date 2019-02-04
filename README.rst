@@ -1,1 +1,1 @@
-# android-gradle-generateJsonModelDebug-failed-2
+https://issuetracker.google.com/issues/123895238
